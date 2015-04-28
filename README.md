@@ -8,7 +8,7 @@ The Kathmandu Valley, Nepal vector dataset includes roads, land uses, and water 
 + road areas
 + road lines
 
-Feature extraction and digitization from IKONOS 1m pan-sharpened image at 1:5000 scale, December 2001.
+Feature extraction and digitization from commercial 1m pan-sharpened imagery at 1:5000 scale, December 2001.
 
 EPSG CODE: 32645; WGS 84 / UTM Zone 45
 
