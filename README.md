@@ -15,7 +15,7 @@ Feature extraction and digitization from commercial 1m pan-sharpened imagery at 
 + Bhaktapur (Bhadgaon) City Map. Scale 1:25,000. Source: Himalayan Map House.
 + Katmandu City Map. Scale 1:25,000. Source: Himalayan Map House.
 
-EPSG CODE: 4326, WGS 84.
+EPSG CODE: 4326, GCS WGS 84.
 
 ## Dataset Coverage Example
 
