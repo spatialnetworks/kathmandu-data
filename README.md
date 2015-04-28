@@ -13,3 +13,5 @@ Feature extraction and digitization from IKONOS 1m pan-sharpened image at 1:5000
 EPSG CODE: 32645; WGS 84 / UTM Zone 45
 
 ## Dataset Coverage Example
+
+![Grendel](http://f.cl.ly/items/2t0q1R3q3N3u231p2k3h/KTM_SNI.png)
