@@ -3,7 +3,7 @@ The Kathmandu Valley, Nepal vector dataset includes roads, land uses, and water 
 
 + building
 + hydro lines
-+ open spaces
++ landuse
 + rivers
 + road areas
 + road lines
