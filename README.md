@@ -8,12 +8,7 @@ The Kathmandu Valley, Nepal vector dataset includes roads, landcover, and water 
 + road areas
 + road lines
 
-## Map resources:
 Feature extraction and digitization from commercial 1m pan-sharpened imagery at 1:5000 scale, December 2001.
-+ Kathmandu Topo Sheet. Scale 1:25,000. Source: Survey of Nepal.
-+ Kathmandu City Map. Scale 1:19500. Source: Discover Nepal Maps.
-+ Bhaktapur (Bhadgaon) City Map. Scale 1:25,000. Source: Himalayan Map House.
-+ Kathmandu City Map. Scale 1:25,000. Source: Himalayan Map House.
 
 EPSG CODE: 4326, GCS WGS 84.
 
