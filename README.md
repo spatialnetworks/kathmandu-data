@@ -1,14 +1,19 @@
 # Kathmandu Valley
-The Kathmandu Valley, Nepal vector dataset includes roads, land uses, and water feature layers for Kathmandu and Lalitpur.
+The Kathmandu Valley, Nepal vector dataset includes roads, landcover, and water feature layers for Kathmandu and Lalitpur.
 
 + building
 + hydro lines
-+ landuse
++ landcover
 + rivers
 + road areas
 + road lines
 
+## Map resources:
 Feature extraction and digitization from commercial 1m pan-sharpened imagery at 1:5000 scale, December 2001.
++ Katmandu Topo Sheet. Scale 1:25,000. Source: Survey of Nepal.
++ Katmandu City Map. Scale 1:19500. Source: Discover Nepal Maps.
++ Bhaktapur (Bhadgaon) City Map. Scale 1:25,000. Source: Himalayan Map House.
++ Katmandu City Map. Scale 1:25,000. Source: Himalayan Map House.
 
 EPSG CODE: 32645; WGS 84 / UTM Zone 45
 
