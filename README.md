@@ -1,5 +1,5 @@
 # Kathmandu Valley
-The Kathmandu Valley, Nepal vector dataset includes roads, landcover, and water feature layers for Kathmandu and Lalitpur.
+The Kathmandu Valley, Nepal vector dataset includes roads, landcover, and water feature layers for Kathmandu and Lalitpur. This dataset is available for publication.
 
 + building
 + hydro lines
